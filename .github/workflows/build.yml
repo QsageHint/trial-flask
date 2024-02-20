@@ -13,4 +13,4 @@ jobs:
       with:
         context: .
         push: false
-        tags: enthusiastica/trial-flask:latest
+        tags: qsagehint/trial-flask:latest
